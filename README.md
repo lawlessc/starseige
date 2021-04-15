@@ -1,6 +1,15 @@
 # starseige
 This was a game i was working on in my spare time for a few years.
-I didn't really have any plans or all idea of what i would consinder "done"
+I didn't really have any plans or all idea of what i would consinder "done", which is probably my progress was sporadic and lopsided(graphics was more fun than trying to come up with actual gameplay)
 Some features:
-             Orbits for satellites are done using conic sections
+             Orbits for satellites are done using conic sections(this was made from C code for finding tangents to cones)
              Buttons are drawn using textures and shaders for signed distance fields.
+             planet textures are done with a perlin noise texture(not mine)
+             A radar mode that gives everything a monochrome CRT look(i think i was playing DEFCON a lot when i decided to implement this)
+             An aura borealis and an aura australis
+             I was also trying to use GLSL to code changing cloud textures.
+
+![name-of-you-image](https://github.com/lawlessc/starseige/blob/main/1%20(1).jpg)
+![name-of-you-image](https://github.com/lawlessc/starseige/blob/main/1%20(2).jpg)
+![name-of-you-image](https://github.com/lawlessc/starseige/blob/main/1%20(3).jpg)
+![name-of-you-image](https://github.com/lawlessc/starseige/blob/main/1%20(4).jpg)
