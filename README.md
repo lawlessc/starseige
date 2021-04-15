@@ -1,6 +1,11 @@
 # starseige
 This was a game i was working on in my spare time for a few years.
-I didn't really have any plans or all idea of what i would consinder "done", which is probably my progress was sporadic and lopsided(graphics was more fun than trying to come up with actual gameplay)
+
+Video here:
+[![SC2 Video](https://www.youtube.com/watch?v=EmmgiIYIWj8)](https://www.youtube.com/watch?v=EmmgiIYIWj8)
+
+
+I didn't really have any plans or an idea of what i would consinder "done", which is probably my progress was sporadic and lopsided(graphics was more fun than trying to come up with actual gameplay)
 Some features:
 
              *Orbits for satellites are done using conic sections(this was made from C code for finding tangents to cones)
@@ -16,4 +21,4 @@ Some features:
 ![4](https://github.com/lawlessc/starseige/blob/main/1%20(4).jpg)
 
 
-[![SC2 Video](https://www.youtube.com/watch?v=EmmgiIYIWj8)](https://www.youtube.com/watch?v=EmmgiIYIWj8)
+
