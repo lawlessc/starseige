@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:3:2-34
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:3:35-58
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:7:2-9:31
+	android:largeScreens
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:7:20-47
+	android:smallScreens
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:8:32-59
+	android:normalScreens
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:8:3-31
+	android:anyDensity
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:9:3-28
+uses-feature#0x00020000
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:10:2-76
+	android:glEsVersion
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:10:41-73
+	android:required
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:10:16-39
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:11:2-63
+	android:name
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:11:19-60
+application
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:13:2-25:16
+	android:label
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:13:45-77
+	android:hardwareAccelerated
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:14:19-53
+	android:icon
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:13:15-44
+activity#com.threed.jpct.shader.Main
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:17:3-23:14
+	android:label
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:17:34-66
+	android:theme
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:18:19-83
+	android:name
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:17:13-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:19:4-22:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml:21:15-62
+uses-sdk
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chris\StarSiege\app\src\main\AndroidManifest.xml
