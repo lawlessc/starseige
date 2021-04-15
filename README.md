@@ -4,6 +4,7 @@ This was a game i was working on in my spare time for a few years.
 Video here:
 [![SC2 Video](https://www.youtube.com/watch?v=EmmgiIYIWj8)](https://www.youtube.com/watch?v=EmmgiIYIWj8)
 
+Blog here with some posts on it https://this-better-work.blogspot.com/ 
 
 I didn't really have any plans or an idea of what i would consinder "done", which is probably my progress was sporadic and lopsided(graphics was more fun than trying to come up with actual gameplay)
 Some features:
