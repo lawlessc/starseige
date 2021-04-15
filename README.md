@@ -1,10 +1,12 @@
 # starseige
-This was a game i was working on in my spare time for a few years.
+This was a game i was working on in my spare time for a few years using JPCT
 
 Video here:
 [![SC2 Video](https://www.youtube.com/watch?v=EmmgiIYIWj8)](https://www.youtube.com/watch?v=EmmgiIYIWj8)
 
 Blog here with some posts on it https://this-better-work.blogspot.com/ 
+
+
 
 I didn't really have any plans or an idea of what i would consinder "done", which is probably my progress was sporadic and lopsided(graphics was more fun than trying to come up with actual gameplay)
 Some features:
@@ -15,6 +17,7 @@ Some features:
              *A radar mode that gives everything a monochrome CRT look(i think i was playing DEFCON a lot when i decided to implement this)
              *An aura borealis and an aura australis
              *I was also trying to use GLSL to code changing cloud textures.
+             *some newer files are using Kotlin as i was trying to learn that also when it came out.
 
 ![2](https://github.com/lawlessc/starseige/blob/main/1%20(1).jpg)
 ![2](https://github.com/lawlessc/starseige/blob/main/1%20(2).jpg)
