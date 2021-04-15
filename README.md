@@ -2,7 +2,7 @@
 This was a game i was working on in my spare time for a few years using JPCT
 
 Video here:
-[![SC2 Video](https://www.youtube.com/watch?v=EmmgiIYIWj8)](https://www.youtube.com/watch?v=EmmgiIYIWj8)
+[![Video](https://www.youtube.com/watch?v=EmmgiIYIWj8)](https://www.youtube.com/watch?v=EmmgiIYIWj8)
 
 Blog here with some posts on it https://this-better-work.blogspot.com/ 
 
