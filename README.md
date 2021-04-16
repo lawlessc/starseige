@@ -26,6 +26,8 @@ Some features:
              *An aura borealis and an aura australis
              *I was also trying to use GLSL to code changing cloud textures.
              *some newer files are using Kotlin as i was trying to learn that also when it came out.
+             
+ The biggest lesson i learnt from this was to maybe start a plan an actual goal in sight.
 
 ![2](https://github.com/lawlessc/starseige/blob/main/1%20(1).jpg)
 ![2](https://github.com/lawlessc/starseige/blob/main/1%20(2).jpg)
