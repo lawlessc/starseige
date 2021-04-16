@@ -12,7 +12,7 @@ Blog here with some posts on it https://this-better-work.blogspot.com/
 
 
 
-I didn't really have any plans or an idea of what i would consinder "done", which is probably my progress was sporadic and lopsided(graphics was more fun than trying to come up with actual gameplay)
+I didn't really have any plans or an idea of what i would consinder "done", which is probably my progress was sporadic and lopsided( for me graphics was more fun than trying to come up with actual gameplay )
 Some features:
 
              *Orbits for satellites are done using conic sections(this was made from C code for finding tangents to cones)
