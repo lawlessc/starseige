@@ -16,9 +16,12 @@ I didn't really have any plans or an idea of what i would consinder "done", whic
 Some features:
 
              *Orbits for satellites are done using conic sections(this was made from C code for finding tangents to cones)
+             *The planet has a thin atmosphere, done using someone else shader re-implented to get working on Android
              *launchable satellites , they look like stars, that fire lasers at incoming enemies.
              *Buttons are drawn using textures and shaders for signed distance fields.
              *planet textures are done with a perlin noise texture(not mine)
+             *city lights on the plants nightside are also done using procedural noise in shader textures.
+             *City lights, lasers and the aura have a glow effect.
              *A radar mode that gives everything a monochrome CRT look(i think i was playing DEFCON a lot when i decided to implement this)
              *An aura borealis and an aura australis
              *I was also trying to use GLSL to code changing cloud textures.
