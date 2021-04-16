@@ -1,5 +1,5 @@
 # starseige
-This was a game i was working on in my spare time for a few years using JPCT
+This was a game i was working on in my spare time for a few years using JPCT shaders are done in GLSL 2.*
 
 Video here:
 
